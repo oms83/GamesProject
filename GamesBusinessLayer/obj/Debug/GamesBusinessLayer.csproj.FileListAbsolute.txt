@@ -1,0 +1,9 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesBusinessLayer\bin\Debug\GamesBusinessLayer.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesBusinessLayer\bin\Debug\GamesBusinessLayer.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesBusinessLayer\bin\Debug\GamesDataAccessLayer.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesBusinessLayer\bin\Debug\GamesDataAccessLayer.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesBusinessLayer\obj\Debug\GamesBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesBusinessLayer\obj\Debug\GamesBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesBusinessLayer\obj\Debug\GamesBusinessLayer.csproj.CopyComplete
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesBusinessLayer\obj\Debug\GamesBusinessLayer.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesBusinessLayer\obj\Debug\GamesBusinessLayer.pdb

@@ -1,0 +1,6 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesDataAccessLayer\bin\Debug\GamesDataAccessLayer.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesDataAccessLayer\bin\Debug\GamesDataAccessLayer.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesDataAccessLayer\obj\Debug\GamesDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesDataAccessLayer\obj\Debug\GamesDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesDataAccessLayer\obj\Debug\GamesDataAccessLayer.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\GamesDataAccessLayer\obj\Debug\GamesDataAccessLayer.pdb

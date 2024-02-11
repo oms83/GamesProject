@@ -1,0 +1,16 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\bin\Debug\Games_Project.exe.config
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\bin\Debug\Games_Project.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\bin\Debug\Games_Project.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\obj\Debug\Games_Project.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\obj\Debug\Games_Project.Properties.Resources.resources
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\obj\Debug\Games_Project.csproj.GenerateResource.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\obj\Debug\Games_Project.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\obj\Debug\Games_Project.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\obj\Debug\Games_Project.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\obj\Debug\Games_Project.frmDashboard.resources
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\obj\Debug\Games_Project.frmLogin.resources
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\obj\Debug\Games_Project.frmRegister.resources
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\obj\Debug\Games_Project.frmAddNewEdit.resources
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\obj\Debug\Games_Project.frmXOGame.resources
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\obj\Debug\Games_Project.frmTicTacToeGame.resources
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\Games_Project\obj\Debug\Games_Project.frmMathGame.resources

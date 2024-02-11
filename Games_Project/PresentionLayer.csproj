@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EA178EA5-8B52-4809-9DBA-1EBA80E03C5C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Games_Project</RootNamespace>
+    <AssemblyName>Games_Project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsSoundEffect.cs" />
+    <Compile Include="frmAddNewEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddNewEdit.Designer.cs">
+      <DependentUpon>frmAddNewEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDashboard.Designer.cs">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListAllUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListAllUsers.Designer.cs">
+      <DependentUpon>frmListAllUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmXOGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmXOGame.Designer.cs">
+      <DependentUpon>frmXOGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMathGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMathGame.Designer.cs">
+      <DependentUpon>frmMathGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegister.Designer.cs">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMemoryGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMemoryGame.Designer.cs">
+      <DependentUpon>frmMemoryGame.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmAddNewEdit.resx">
+      <DependentUpon>frmAddNewEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDashboard.resx">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListAllUsers.resx">
+      <DependentUpon>frmListAllUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMathGame.resx">
+      <DependentUpon>frmMathGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmXOGame.resx">
+      <DependentUpon>frmXOGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegister.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMemoryGame.resx">
+      <DependentUpon>frmMemoryGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maths.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card-game.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tic-tac-toe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maths1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maths2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\division.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multiplication.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GamesBusinessLayer\GamesBusinessLayer.csproj">
+      <Project>{e8a37972-b16b-4e08-b1f2-735caabc0933}</Project>
+      <Name>GamesBusinessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cpp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\java.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\js.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\php.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\py.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ruby.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\react.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cppp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rubyy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eyelashes.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
